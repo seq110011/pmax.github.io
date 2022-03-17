@@ -11,8 +11,28 @@ updates the data with the state of the cloud
 and not from my computer.
 (start all over again)
 
+
+git add .             ( remembers all modified / added files 
+                        to the commit )
+git commit            ( adds a description to the change )
+git push              ( Uplaud remote files to GIT )
+
+gh repo create org/repo --enable-issues=true --public --push
+(Make my editor as owner on this repo)
+
+
 When these things are done
 I start to create the config.
 
 
 greez
+
+
+
+
+
+
+
+
+
+###########################################################
