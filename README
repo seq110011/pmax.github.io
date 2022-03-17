@@ -1,0 +1,18 @@
+I am trying to create a Jekyll
+"plain text into static websites" here.
+Thereby I run into various problems.
+Github control via ssh (creating tokens
+githubclient for terminal control 
+and terminal control at all).
+
+The upload function is not done.
+It turned out that the command "sync" 
+updates the data with the state of the cloud
+and not from my computer.
+(start all over again)
+
+When these things are done
+I start to create the config.
+
+
+greez
