@@ -18,8 +18,9 @@ git commit            ( adds a description to the change )
 git push              ( Uplaud remote files to GIT )
 
 gh repo create org/repo --enable-issues=true --public --push
-(Make my editor as owner on this repo)
-
+( create a ney repo and make my editor as owner on this repo)
+gh repo fork
+(insert a user organisation to a part of this repo )
 
 When these things are done
 I start to create the config.
